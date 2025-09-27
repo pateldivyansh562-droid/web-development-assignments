@@ -4,7 +4,7 @@ A simple, static travel website built with pure HTML to showcase different desti
 
 ## 🚀 Live Demo
 
-You can view the live website here: [index.html](assignment1.html) (if hosted) or simply by opening the `index.html` file in your browser.
+You can view the live website here: [assignment1.html](assignment1.html) (if hosted) or simply by opening the `index.html` file in your browser.
 
 ## ✨ Features
 *   **Vibrant Content:** Engaging paragraphs discussing the pros and cons of modern travel.
